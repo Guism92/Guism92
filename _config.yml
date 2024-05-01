@@ -1,5 +1,5 @@
 title: Guilherme Savanhago
-logo: / git_profile_images/foto_git.png
-#description: text below
-show_downloads: false
+logo: /git_profile_images/foto_git.png
+# description: text below
+show_downloads: true
 theme: jekyll-theme-minimal
