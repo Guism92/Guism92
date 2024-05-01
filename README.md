@@ -1,26 +1,37 @@
-# Data Enginner
+# Senior Data Enginner
 
 ### Education
-Universidade de Brasília, 2015
-Instituo de Gestão e Tecnologia da Informação, 2020
+- Universidade de Brasília (Unb), 2015
+- Associação Internacional de Educação Continuada, 2017
+- Instituto de Gestão e Tecnologia da Informação, 2020
+- UniCEUB, 2025 (due to complete)
 
 ### Work Experience
-Banco do Brasil
+-  🔭 I’m currently working on Banco do Brasil
 
-### Projects
-Project one
-Project two
-<!--
-**Guism92/Guism92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Certifications
+- Data Enginner, Data Science Academy 2021
+- CPA20 , 2020
+- Scrum Fundamentals, 2018
 
-Here are some ideas to get you started:
+### Skills
+- Python
+- SQL
+- Javascript
+- VBA
+- HTML
+- CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools
+- Power BI
+- Spotfire
+- DataStage
+- Excel
+- Erwin
+- Figma
+- Pentaho
+
+📫 How to reach me: guilhermesmachado@outlook.com / https://www.linkedin.com/in/guilherme-machado-498905a6
+🌱 I’m currently learning about NoSQL
+⚡ Fun fact: I just became an advanced scuba diver!
+
