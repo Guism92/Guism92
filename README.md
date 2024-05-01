@@ -31,7 +31,7 @@
 - Figma
 - Pentaho
 
-📫 How to reach me: guilhermesmachado@outlook.com / https://www.linkedin.com/in/guilherme-machado-498905a6
-🌱 I’m currently learning about NoSQL
-⚡ Fun fact: I just became an advanced scuba diver!
+- 📫 How to reach me: guilhermesmachado@outlook.com / https://www.linkedin.com/in/guilherme-machado-498905a6
+- 🌱 I’m currently learning about NoSQL
+- ⚡ Fun fact: I just became an advanced scuba diver!
 
