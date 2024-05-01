@@ -1,5 +1,15 @@
-### Hi there 👋
+# Data Enginner
 
+### Education
+Universidade de Brasília, 2015
+Instituo de Gestão e Tecnologia da Informação, 2020
+
+### Work Experience
+Banco do Brasil
+
+### Projects
+Project one
+Project two
 <!--
 **Guism92/Guism92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
