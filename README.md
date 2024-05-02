@@ -14,6 +14,10 @@
 - CPA20 , 2020
 - Scrum Fundamentals, 2018
 
+### Languages
+- Portuguese
+- English
+
 ### Skills
 - Python
 - SQL
