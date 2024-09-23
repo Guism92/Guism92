@@ -31,6 +31,7 @@
 - Spotfire
 - DataStage
 - Excel
+- SAS
 - Erwin
 - Figma
 - Pentaho
